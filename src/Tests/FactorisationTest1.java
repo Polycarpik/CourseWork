@@ -17,19 +17,18 @@ import static junit.framework.Assert.assertTrue;
 */
 
 @RunWith(Parameterized.class)
-public class FactorisationTest {
+public class FactorisationTest1 {
 
     private int number;
     private List<Integer> factors;
 
-    public FactorisationTest(int number, List<Integer> factors) {
+    public FactorisationTest1(int number, List<Integer> factors) {
         this.number = number;
         this.factors = factors;
     }
 
     @Before
     public void setUp() throws Exception {
-
     }
 
     @After
@@ -49,7 +48,7 @@ public class FactorisationTest {
     }
 
     @Test (timeout = 50)
-    public void testFactorisation(){
+    public void testPrimeFactors1(){
         Factorisation A = new Factorisation(number);
         assertTrue(A.primeFactors().equals(factors));
     }

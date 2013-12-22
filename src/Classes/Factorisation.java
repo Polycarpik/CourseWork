@@ -10,7 +10,7 @@ public class Factorisation {
 
     public static int number;
 
-    public Factorisation(int numbers){
+    public Factorisation(int numbers) {
         this.number = numbers;
     }
 
@@ -27,4 +27,17 @@ public class Factorisation {
         }
         return factors;
     }
+
+    public static boolean primeCheck() {
+        if (primeFactors().size() == 1)
+            return true;
+        else
+            return false;
+    }
+
+    @Override
+    public String toString() {
+        return "Factorisation";
+    }
+
 }
