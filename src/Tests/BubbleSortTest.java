@@ -4,6 +4,7 @@ import Classes.BubbleSort;
 import org.junit.AfterClass;
 import org.junit.BeforeClass;
 import org.junit.Test;
+import org.junit.experimental.categories.Category;
 import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
 
@@ -45,6 +46,7 @@ public class BubbleSortTest {
 
     @Test(timeout = 50)
     public void testBubbleSort() {
+        System.out.println("BubbleSort");
         BubbleSort A = new BubbleSort();
         A.sort(phrase);
         assertTrue(Arrays.equals(phrase, match));

@@ -44,6 +44,7 @@ public class QuickSortTest {
 
     @Test(timeout = 50)
     public void testQuickSort() {
+        System.out.println("QuickSort");
         QuickSort A = new QuickSort();
         A.sort(phrase);
         assertTrue(Arrays.equals(phrase, match));

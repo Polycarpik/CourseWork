@@ -46,6 +46,7 @@ public class MergeSortTest {
 
     @Test(timeout = 50)
     public void testQuickSort() {
+        System.out.println("MergeSort");
         MergeSort A = new MergeSort();
         A.sort(phrase);
         assertTrue(Arrays.equals(phrase, match));

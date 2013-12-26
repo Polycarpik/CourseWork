@@ -1,17 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="573cf70f-d3db-4387-a2e4-e689fc4032b8" name="Default" comment="Initial commit&#10;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Classes/BubbleSort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Tests/MergeSortTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Classes/SortAlgorithm.java" />
+    <list default="true" id="573cf70f-d3db-4387-a2e4-e689fc4032b8" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Tests/FactorisationTestSuite.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Tests/TestSuiteSuite.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Tests/BubbleSortTest.java" afterPath="$PROJECT_DIR$/src/Tests/BubbleSortTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Classes/Factorisation.java" afterPath="$PROJECT_DIR$/src/Classes/Factorisation.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Classes/QuickSort.java" afterPath="$PROJECT_DIR$/src/Classes/QuickSort.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Tests/TestSuite.java" afterPath="$PROJECT_DIR$/src/Tests/TestSuite.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Tests/MergeSortTest.java" afterPath="$PROJECT_DIR$/src/Tests/MergeSortTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Tests/QuickSortTest.java" afterPath="$PROJECT_DIR$/src/Tests/QuickSortTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="D:\IdeaProjects\CourseWork\src\Tests\FactorisationTest.java" afterPath="$PROJECT_DIR$/src/Tests/FactorisationTest1.java" />
+      <change type="MOVED" beforePath="D:\IdeaProjects\CourseWork\src\Tests\TestSuite.java" afterPath="$PROJECT_DIR$/src/Tests/SortTestSuite.java" />
     </list>
     <ignored path="CourseWork.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -78,57 +75,7 @@
       <file leaf-file-name="Factorisation.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Classes/Factorisation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="33" selection-start="760" selection-end="760" vertical-scroll-proportion="0.0" vertical-offset="156" max-vertical-offset="833">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#369#378#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Classes/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="11" selection-start="455" selection-end="455" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FactorisationTest2.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Tests/FactorisationTest2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="68" selection-start="710" selection-end="710" vertical-scroll-proportion="0.0" vertical-offset="183" max-vertical-offset="833">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MergeSort.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Classes/MergeSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="16" selection-start="159" selection-end="159" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1139">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BubbleSort.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Classes/BubbleSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="144" selection-end="144" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="714">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SortAlgorithm.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Classes/SortAlgorithm.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="34" selection-start="128" selection-end="128" vertical-scroll-proportion="0.19866444" vertical-offset="0" max-vertical-offset="599">
+            <state line="34" column="25" selection-start="760" selection-end="760" vertical-scroll-proportion="0.0" vertical-offset="156" max-vertical-offset="833">
               <folding />
             </state>
           </provider>
@@ -137,19 +84,26 @@
       <file leaf-file-name="BubbleSortTest.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Tests/BubbleSortTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="0" selection-start="198" selection-end="198" vertical-scroll-proportion="0.0" vertical-offset="183" max-vertical-offset="986">
+            <state line="48" column="38" selection-start="1266" selection-end="1266" vertical-scroll-proportion="0.0" vertical-offset="396" max-vertical-offset="1020">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestSuite.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Tests/TestSuite.java">
+      <file leaf-file-name="MergeSortTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Tests/MergeSortTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="145" selection-start="353" selection-end="353" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="48" column="29" selection-start="1108" selection-end="1108" vertical-scroll-proportion="0.0" vertical-offset="413" max-vertical-offset="1037">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestSuiteSuite.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Tests/TestSuiteSuite.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="70" selection-start="217" selection-end="217" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="323">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -157,7 +111,16 @@
       <file leaf-file-name="QuickSortTest.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Tests/QuickSortTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="0" selection-start="441" selection-end="441" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="986">
+            <state line="45" column="41" selection-start="1067" selection-end="1067" vertical-scroll-proportion="0.0" vertical-offset="379" max-vertical-offset="1003">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SortTestSuite.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Tests/SortTestSuite.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="92" selection-start="289" selection-end="289" vertical-scroll-proportion="0.30222222" vertical-offset="0" max-vertical-offset="900">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -168,10 +131,17 @@
       <file leaf-file-name="FactorisationTest1.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Tests/FactorisationTest1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="49" selection-start="1115" selection-end="1115" vertical-scroll-proportion="0.0" vertical-offset="98" max-vertical-offset="1054">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="51" column="43" selection-start="1196" selection-end="1196" vertical-scroll-proportion="0.0" vertical-offset="404" max-vertical-offset="1054">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FactorisationTest2.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Tests/FactorisationTest2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="77" selection-start="569" selection-end="569" vertical-scroll-proportion="0.0" vertical-offset="183" max-vertical-offset="833">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -199,14 +169,18 @@
         <option value="$PROJECT_DIR$/src/Classes/QuickSort.java" />
         <option value="$PROJECT_DIR$/src/Classes/BubbleSort.java" />
         <option value="$PROJECT_DIR$/src/Classes/MergeSort.java" />
-        <option value="$PROJECT_DIR$/src/Tests/QuickSortTest.java" />
         <option value="$PROJECT_DIR$/src/Tests/FactorisationTest.java" />
-        <option value="$PROJECT_DIR$/src/Tests/BubbleSortTest.java" />
         <option value="$PROJECT_DIR$/src/Classes/MergeSortTest.java" />
-        <option value="$PROJECT_DIR$/src/Tests/FactorisationTest1.java" />
         <option value="$PROJECT_DIR$/src/Classes/Factorisation.java" />
-        <option value="$PROJECT_DIR$/src/Tests/FactorisationTest2.java" />
         <option value="$PROJECT_DIR$/src/Tests/TestSuite.java" />
+        <option value="$PROJECT_DIR$/src/Tests/SortTestSuite.java" />
+        <option value="$PROJECT_DIR$/src/Tests/FactorisationTestSuite.java" />
+        <option value="$PROJECT_DIR$/src/Tests/TestSuiteSuite.java" />
+        <option value="$PROJECT_DIR$/src/Tests/FactorisationTest1.java" />
+        <option value="$PROJECT_DIR$/src/Tests/FactorisationTest2.java" />
+        <option value="$PROJECT_DIR$/src/Tests/BubbleSortTest.java" />
+        <option value="$PROJECT_DIR$/src/Tests/MergeSortTest.java" />
+        <option value="$PROJECT_DIR$/src/Tests/QuickSortTest.java" />
       </list>
     </option>
   </component>
@@ -243,7 +217,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -300,6 +273,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -313,6 +287,8 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="false" />
     <property name="dynamic.classpath" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SomeNewProj" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
@@ -323,74 +299,13 @@
       <recent name="Classes" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.FactorisationTest2">
-    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Classes.Main" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" value="" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="CourseWork" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="FactorisationTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager">
+    <configuration default="false" name="SortTestSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CourseWork" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="Tests" />
-      <option name="MAIN_CLASS_NAME" value="Tests.FactorisationTest1" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="BubbleSortTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CourseWork" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="Tests" />
-      <option name="MAIN_CLASS_NAME" value="Tests.BubbleSortTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="TestSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CourseWork" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="Tests" />
-      <option name="MAIN_CLASS_NAME" value="Tests.TestSuite" />
+      <option name="MAIN_CLASS_NAME" value="Tests.SortTestSuite" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
@@ -413,6 +328,72 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="Tests" />
       <option name="MAIN_CLASS_NAME" value="Tests.FactorisationTest2" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="FactorisationTestSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CourseWork" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.FactorisationTestSuite" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestSuiteSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CourseWork" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.TestSuiteSuite" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="QuickSortTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CourseWork" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.QuickSortTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
@@ -531,19 +512,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.FactorisationTest1" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.BubbleSortTest" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.TestSuite" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.FactorisationTest2" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.SortTestSuite" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.FactorisationTest2" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.FactorisationTestSuite" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.TestSuiteSuite" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.QuickSortTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.FactorisationTest2" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.TestSuite" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.BubbleSortTest" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.FactorisationTest1" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.SortTestSuite" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.QuickSortTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.FactorisationTestSuite" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.TestSuiteSuite" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.FactorisationTest2" />
       </list>
     </recent_temporary>
   </component>
@@ -591,36 +572,40 @@
       <created>1387741221235</created>
       <updated>1387741221235</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Refactored a bit">
+      <created>1387742235747</created>
+      <updated>1387742235747</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1064" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937366" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937366" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14643237" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32289416" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14643237" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5669547" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937366" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -639,13 +624,13 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937366" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14643237" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32289416" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -665,7 +650,8 @@
     <MESSAGE value="TestSuite added" />
     <MESSAGE value="MergeSortTest added" />
     <MESSAGE value="Added test with @Theory" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added test with @Theory" />
+    <MESSAGE value="Refactored a bit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactored a bit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -675,18 +661,72 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.10.jar!/org/junit/runners/ParentRunner.class">
+    <entry file="file://$PROJECT_DIR$/src/Classes/Factorisation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="67" column="0" selection-start="3627" selection-end="3627" vertical-scroll-proportion="0.86585367" vertical-offset="625" max-vertical-offset="1224">
+        <state line="34" column="25" selection-start="760" selection-end="760" vertical-scroll-proportion="0.0" vertical-offset="156" max-vertical-offset="833">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_21/jre/lib/rt.jar!/sun/reflect/NativeConstructorAccessorImpl.class">
+    <entry file="file://$PROJECT_DIR$/src/Tests/BubbleSortTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="1053" selection-end="1053" vertical-scroll-proportion="0.49317408" vertical-offset="0" max-vertical-offset="586">
+        <state line="48" column="38" selection-start="1266" selection-end="1266" vertical-scroll-proportion="0.0" vertical-offset="396" max-vertical-offset="1020">
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tests/MergeSortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="29" selection-start="1108" selection-end="1108" vertical-scroll-proportion="0.0" vertical-offset="413" max-vertical-offset="1037">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tests/TestSuiteSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="70" selection-start="217" selection-end="217" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="323">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tests/QuickSortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="41" selection-start="1067" selection-end="1067" vertical-scroll-proportion="0.0" vertical-offset="379" max-vertical-offset="1003">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tests/SortTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="26" selection-start="124" selection-end="167" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="374">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tests/FactorisationTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="43" selection-start="1196" selection-end="1196" vertical-scroll-proportion="0.0" vertical-offset="404" max-vertical-offset="1054">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tests/FactorisationTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="77" selection-start="569" selection-end="569" vertical-scroll-proportion="0.0" vertical-offset="183" max-vertical-offset="833">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.10.jar!/org/junit/runners/ParentRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="67" column="0" selection-start="3627" selection-end="3627" vertical-scroll-proportion="0.86585367" vertical-offset="625" max-vertical-offset="1224" />
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_21/jre/lib/rt.jar!/sun/reflect/NativeConstructorAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="1053" selection-end="1053" vertical-scroll-proportion="0.49317408" vertical-offset="0" max-vertical-offset="586" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Classes/QuickSort.java">
@@ -703,72 +743,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tests/QuickSortTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="0" selection-start="441" selection-end="441" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="986">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Classes/Factorisation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="33" selection-start="760" selection-end="760" vertical-scroll-proportion="0.0" vertical-offset="156" max-vertical-offset="833">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#369#378#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tests/MergeSortTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="49" selection-start="1167" selection-end="1167" vertical-scroll-proportion="1.3906511" vertical-offset="0" max-vertical-offset="1003">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Classes/MergeSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="16" selection-start="159" selection-end="159" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1139">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tests/FactorisationTest1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="49" selection-start="1115" selection-end="1115" vertical-scroll-proportion="0.0" vertical-offset="98" max-vertical-offset="1054">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tests/BubbleSortTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="198" selection-end="198" vertical-scroll-proportion="0.0" vertical-offset="88" max-vertical-offset="986">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tests/FactorisationTest2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="68" selection-start="710" selection-end="710" vertical-scroll-proportion="0.0" vertical-offset="183" max-vertical-offset="833">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tests/TestSuite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="145" selection-start="353" selection-end="353" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -783,6 +761,73 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="34" selection-start="128" selection-end="128" vertical-scroll-proportion="0.19866444" vertical-offset="0" max-vertical-offset="599">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Classes/Factorisation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="25" selection-start="760" selection-end="760" vertical-scroll-proportion="0.0" vertical-offset="156" max-vertical-offset="833">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tests/TestSuiteSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="70" selection-start="217" selection-end="217" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tests/FactorisationTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="8" selection-start="177" selection-end="177" vertical-scroll-proportion="0.30807248" vertical-offset="0" max-vertical-offset="607">
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tests/FactorisationTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="43" selection-start="1196" selection-end="1196" vertical-scroll-proportion="0.0" vertical-offset="404" max-vertical-offset="1054">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tests/FactorisationTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="77" selection-start="569" selection-end="569" vertical-scroll-proportion="0.0" vertical-offset="183" max-vertical-offset="833">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tests/BubbleSortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="38" selection-start="1266" selection-end="1266" vertical-scroll-proportion="0.0" vertical-offset="396" max-vertical-offset="1020">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tests/MergeSortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="29" selection-start="1108" selection-end="1108" vertical-scroll-proportion="0.0" vertical-offset="413" max-vertical-offset="1037">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tests/QuickSortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="41" selection-start="1067" selection-end="1067" vertical-scroll-proportion="0.0" vertical-offset="379" max-vertical-offset="1003">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tests/SortTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="92" selection-start="289" selection-end="289" vertical-scroll-proportion="0.30222222" vertical-offset="0" max-vertical-offset="900">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
